@@ -6,7 +6,7 @@ rn-toast-message is toast message for react native
 
 ## Installation
 
-rn-toast-message uses [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/installation). Be sure you installed React Native Reanimated.
+rn-toast-message uses [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/installation) version 3.0.0. Be sure you installed React Native Reanimated version 3.0.0.
 
 ```bash
 npm install rn-toast-message
